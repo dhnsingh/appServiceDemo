@@ -13,7 +13,7 @@ public class AppServiceDemoApplication {
 
 	@GetMapping("/message")
 	public String message(){
-		return "this is the first commit....  ! Congrats.....";
+		return "this is the first commit....  .";
 	}
 	
 	public static void main(String[] args) {
